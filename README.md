@@ -1,27 +1,35 @@
-# Introduction
+# Python AI Agents
 
-This Cookbook contains examples and tutorials to help developers build AI systems, offering copy/paste code snippets that you can easily integrate into your own projects.
+This repository contains cookbook examples from Datalumina® that I am using to explore AI agent workflow patterns. These examples and tutorials provide helpful resources for developers building AI systems, with copy/paste code snippets that can be easily integrated into various projects.
 
-## About Me
+## Original Source
 
-Hi! I'm Dave, AI Engineer and founder of Datalumina®. On my [YouTube channel](https://www.youtube.com/@daveebbelaar?sub_confirmation=1), I share practical tutorials that teach developers how to build AI systems that actually work in the real world. Beyond these tutorials, I also help people start successful freelancing careers. Check out the links below to learn more!
+These examples are based on the [AI Cookbook](https://github.com/daveebbelaar/ai-cookbook) by Dave Ebbelaar, AI Engineer and founder of Datalumina®. The original content includes practical tutorials that teach developers how to build AI systems that work in real-world applications.
 
-### Explore More Resources
+## My Learning Focus
 
-Whether you're a learner, a freelancer, or a business looking for AI expertise, we've got something for you:
+I'm specifically exploring:
+- AI agent workflow patterns
+- Implementation techniques for autonomous agents
+- Integration of different AI capabilities
+- Practical applications of AI agent architectures
 
-1. **Learning Python for AI and Data Science?**  
-   Join our **free community, Data Alchemy**, where you'll find resources, tutorials, and support  
+## Resources from Datalumina
+
+The original cookbook provides access to various resources:
+
+1. **Data Alchemy Community** - Free resources, tutorials, and support for learning Python for AI
    ▶︎ [Learn Python for AI](https://www.skool.com/data-alchemy)
 
-2. **Ready to start or scale your freelancing career?**  
-   Learn how to land clients and grow your business  
+2. **Freelancing Resources** - Information on finding clients and growing a business
    ▶︎ [Find freelance projects](https://www.datalumina.com/data-freelancer)
 
-3. **Need expert help on your next project?**  
-   Work with me and my team to solve your data and AI challenges  
-   ▶︎ [Work with me](https://www.datalumina.com/solutions)
+3. **Expert Services** - Professional data and AI solutions
+   ▶︎ [Work with Datalumina](https://www.datalumina.com/solutions)
 
-4. **Already building AI applications?**  
-   Explore the **GenAI Launchpad**, our production framework for AI systems  
+4. **GenAI Launchpad** - Production framework for AI systems
    ▶︎ [Explore the GenAI Launchpad](https://launchpad.datalumina.com/)
+
+## Original Author
+
+Dave Ebbelaar shares practical AI tutorials on his [YouTube channel](https://www.youtube.com/@daveebbelaar?sub_confirmation=1).
